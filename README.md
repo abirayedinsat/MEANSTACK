@@ -1,2 +1,0 @@
-# MEANSTACK
-L'objectif est de créer un mini carnet d'adresse pour "gilet jaune" (sous forme d'API) donc Express.js et MongoDB. Les fonctionnalités seront les suivantes: (Inscription/Connexion/Déconnexion) du gilet jaune par login/mot de passe  (Afficher/Modifier) ses informations (age / famille / rôle (casseur, protection...) / nourriture)  (Ajouter/Supprimer) des amis "gilets jaunes" (déjà inscrits).  Idéalement la partie frontend devrait être réalisée avec notre framework préféré Angular8 !
